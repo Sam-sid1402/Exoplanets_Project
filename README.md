@@ -253,6 +253,11 @@ A high score indicates that a star shares characteristics with known exoplanet-h
 
 ---
 
+## Notebooks and Scripts
+
+The original Jupyter notebooks are included in `notebooks/`.  
+For easier GitHub viewing, equivalent Python scripts are also provided in `scripts/`.
+
 ## Technologies
 
 * Python
