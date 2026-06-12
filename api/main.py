@@ -38,6 +38,8 @@ app.add_middleware(
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "http://192.168.1.136:3000",
+        "https://samsid1402.com",
+        "https://www.samsid1402.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
